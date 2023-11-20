@@ -1,0 +1,39 @@
+{
+    "mainPicture": "/images/anh-nen-1.jpg",
+    "wifeName": "Lê Minh Kim Ngân",
+    "husbandName": "Nguyễn Vĩnh Thịnh",
+    "wifeFamily": {
+        "motherName": "Lê Thị Thúy Hồng",
+        "fatherName": "Lê Minh Quế",
+        "address": "Tx. Bình Long - Bình Phước"
+    },
+    "husbandFamily": {
+        "motherName": "Nguyễn Thị Phương",
+        "fatherName": "Nguyễn Anh Sơn",
+        "address": "H. Hóc Môn - Tp. Hồ Chí Minh"
+    },
+    "times": {
+        "day": "03/12/2023",
+        "dayOfWeek": "Chủ Nhật",
+        "lunar": "(Nhằm ngày 21 tháng 10 năm Quý Mão)",
+        "time": "11h00",
+        "address": "Tượng Đài Kim Đồng (Nhà thiếu nhi Thị xã Bình Long)"
+    },
+    "timeLine": {
+        "talk": "09:00",
+        "welcome": "11:00",
+        "party": "12:00"
+    },
+    "albums": [
+        "/images/album-1.jpg",
+        "/images/album-2.jpg",
+        "/images/album-3.jpg",
+        "/images/album-4.jpg",
+        "/images/album-5.jpg",
+        "/images/album-6.jpg",
+        "/images/album-7.jpg",
+        "/images/album-8.jpg",
+        "/images/album-9.jpg",
+        "/images/album-10.jpg"
+    ]
+}
